@@ -1,6 +1,6 @@
 # Keynote Presentation Exporter
 
-This AppleScript automates the process of exporting a Keynote presentation to a PDF file, based on user-selected tags. The script prompts the user to select a Keynote file and a list of tags to include in the exported PDF.
+This AppleScript automates the process of exporting a Keynote presentation to a PDF file, based on user-selected tags.  The script is intended to simplify the creation of multiple decks for pitching, sales, different languages, and so on, from a single master deck. When run, the script prompts the user to select a Keynote file and a list of tags to include in the exported PDF.  The script will hide the unwanted slides, export the deck as a PDF, and restore the deck to the state it was in when run.
 
 ## Requirements
 
